@@ -1,6 +1,6 @@
 <template>
   <slot :posts="posts">
-    <section class="not-prose font-mono w-max	">
+    <section class="not-prose font-mono w-full	">
       <div class="column text-gray-500 dark:text-lime-600 text-sm">
         <div>date</div>
         <div>title</div>
