@@ -1,7 +1,7 @@
 <template>
-<div>
-Hello
-</div>
+  <article class="content">
+    <ContentDoc path="/"/>
+  </article>
 </template>
 
 <script setup>

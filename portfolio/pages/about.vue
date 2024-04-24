@@ -1,11 +1,5 @@
 <template>
-  <div>
-  This page is about me.
-  </div>
+  <article class="content">
+    <ContentDoc path="/about"/>
+  </article>
 </template>
-
-<script setup>
-useHead({
-  title: 'About'
-})
-</script>
